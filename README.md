@@ -9,6 +9,8 @@ Setting up the system I am using xmlrpc.client
 The server accept the client request using SimpleXMLRPCServer (line 3 and 9)
 ![image](https://user-images.githubusercontent.com/87257685/224014144-143bc55c-1867-454b-a5c4-2fa91c9f5ef4.png)
 
+Here is the demo: https://lut-my.sharepoint.com/:v:/g/personal/viia_mantymaki_student_lut_fi/EUVs2M6kPpJHtFd82swNNyIBFN_L3b4Nid-JMl8XedLE8A?e=6ljzSz
+
 ### How to run  
 Open at least two terminals.  
 First terminal set up the server up  "python .\Communication.py"  
