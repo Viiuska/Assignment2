@@ -1,12 +1,2 @@
 <data>
-    <topic name="Animal Things">
-        <note name="Dogs are better than cats 03">
-            <text>
-            Dogs respond when you call their name (unlike cats, who just ignore you)
-            </text>
-            <timestamp>
-            03/16/21 - 14:03:04
-            </timestamp>
-        </note>
-    </topic>
-<topic name="Cat"><note name="Monday"><text>Monday cats</text><timestamp>03/09/2023 - 13:21:03</timestamp></note><note name="Tuesday"><text>Tuesday cats</text><timestamp>03/09/2023 - 13:21:36</timestamp></note></topic><topic name="Snake"><note name="Friday"><text>snake snake snake</text><timestamp>03/09/2023 - 13:22:32</timestamp></note></topic></data>
+</data>
